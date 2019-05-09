@@ -2,6 +2,8 @@
 Alabaster Solarized Dark Theme
 ==============================
 
+.. image:: asd.png
+
 Custom CSS for Alabaster
 ------------------------
 
