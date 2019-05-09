@@ -9,7 +9,8 @@ This CSS is designed to customise `the Alabaster theme <https://alabaster.readth
 for `Sphinx <http://sphinx-doc.org/>`_. It uses the `Solarized Dark <https://ethanschoonover.com/solarized/>`_
 colour scheme for maximum comfort while reading.
 
-This has been tested with Sphinx and `Ablog <https://ablog.readthedocs.io/>`_.
+This has been tested with Sphinx and `Ablog <https://ablog.readthedocs.io/>`_. An example of
+the theme in action can be seen `here <https://vigilant-hermann-bee4e2.netlify.com/>`_.
 
 Special features
 ^^^^^^^^^^^^^^^^

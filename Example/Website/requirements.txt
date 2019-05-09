@@ -2,3 +2,4 @@ Sphinx==2.0.1
 alabaster==0.7.12
 pip==19.1.1
 Pygments==2.4.0
+pygments-solarized==0.0.3
