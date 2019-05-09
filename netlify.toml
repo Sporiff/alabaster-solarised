@@ -1,0 +1,4 @@
+[build]
+  base    = "Example/Website"
+  publish = "Example/Website/_build"
+  command = "make html"
