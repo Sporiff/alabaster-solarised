@@ -51,5 +51,5 @@ To set the theme up, place the ``custom.css`` file in a folder called ``css`` wi
 
    html_static_path = ['_static']
 
-Now run ``sphinx build`` or ``ablog build`` (depending on what you're using) and you should see the
+Now run ``sphinx-build`` or ``ablog build`` (depending on what you're using) and you should see the
 CSS take effect.
